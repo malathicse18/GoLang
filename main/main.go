@@ -1,5 +1,12 @@
 package main
 
-func main(){
-	
+import (
+	"fmt"
+	"strings"
+)
+
+func main() {
+	a := "Hello world"
+	fmt.Println(strings.Split(a, " "))
+
 }
