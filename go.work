@@ -1,0 +1,16 @@
+go 1.20
+
+use (
+	.
+	./Array
+	./CountDuplicates
+	./Duplicates
+	./ErrorHandling
+	./Find60
+	./GoLang/main
+	./Largest
+	./Maps
+	./Palindrome
+	./SliceManipulation
+	./calculator
+)
